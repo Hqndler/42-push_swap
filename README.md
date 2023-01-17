@@ -42,3 +42,5 @@ https://user-images.githubusercontent.com/69089935/212925804-d2990a2f-a4a7-4686-
 ## Pour les gens qui aiment python
 
 J'ai fais l'algo en python aussi, il se peut qu'il soit plus compréhensible que le code en C éparpiller sur plusieurs fichiers.
+
+Ah oui ! Le 121/125 est du à un problème de parsing, il a été réglé sur ce push mais je ne me referai pas corriger.
